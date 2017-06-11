@@ -1,0 +1,25 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "amazon like app",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "console.table": "^0.8.0",
+    "inquirer": "^3.1.0",
+    "mysql": "^2.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sawaby/Bamazon.git"
+  },
+  "author": "Maria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sawaby/Bamazon/issues"
+  },
+  "homepage": "https://github.com/sawaby/Bamazon#readme"
+}
